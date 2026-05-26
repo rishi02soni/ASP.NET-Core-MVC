@@ -1,0 +1,5 @@
+dotnet new mvc -n ExpenseTracker
+cd ExpenseTracker
+
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package Microsoft.EntityFrameworkCore.Tools
