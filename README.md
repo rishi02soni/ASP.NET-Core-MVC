@@ -52,7 +52,7 @@ This project follows the MVC (Model-View-Controller) architecture of ASP.NET Cor
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ExpenseTracker/
