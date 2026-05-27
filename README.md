@@ -38,7 +38,7 @@ This project follows the MVC (Model-View-Controller) architecture of ASP.NET Cor
 ```
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
