@@ -83,7 +83,7 @@ ExpenseTracker/
 
 ---
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 ### Step 1: Clone Project
 
