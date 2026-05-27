@@ -153,7 +153,7 @@ http://localhost:5000
 
 ---
 
-## 🗄 Database Configuration
+##  Database Configuration
 
 Connection string inside:
 
