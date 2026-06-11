@@ -2,7 +2,7 @@
  
 A complete Expense Tracker web application built using ASP.NET Core MVC and Entity Framework Core with SQLite database support. This project helps users manage daily expenses, track spending, categorize expenses, and monitor overall financial activity through a simple and responsive interface.
         
----          
+---           
  
 ##  Project Overview
 
